@@ -1,0 +1,5 @@
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csprojResolveAssemblyReference.cache
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb

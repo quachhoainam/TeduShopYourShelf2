@@ -1,0 +1,10 @@
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll.config
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.pdb
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.dll
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.xml
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csprojResolveAssemblyReference.cache
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
+D:\Lập trình web\Demo\WebThuongMaiDienTu2\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
